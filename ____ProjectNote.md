@@ -2,8 +2,8 @@
 
 
 
-Techonology:
-vite, redux
+* Techonology:
+* vite, redux
 
 
 1. install : npm create vite@latest & npm i . 
